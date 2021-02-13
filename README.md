@@ -16,7 +16,7 @@ O projeto foi iniciado com a intenção de consolidar meus conhecimentos em Swin
 ------------
 
 <h4>Bibliotecas utilizadas</h4>
-[![Bibliotecas](https://lh3.googleusercontent.com/pw/ACtC-3fDAhwAyh3Mmj5DXEm5w7WUFLEaKmt09btHB1tyWvOGQUiSgweR1-UYmQ8G6qSmDkeWJiiSBgALa89gBzRe8vfMGby9aISAy3IjV1rRkrAAoZY6mWtVnDL_qbu1egct8l9zF9p7sHWO8KKKPQBtYiLs=w351-h202-no?authuser=0 "Bibliotecas")](https://lh3.googleusercontent.com/pw/ACtC-3fDAhwAyh3Mmj5DXEm5w7WUFLEaKmt09btHB1tyWvOGQUiSgweR1-UYmQ8G6qSmDkeWJiiSBgALa89gBzRe8vfMGby9aISAy3IjV1rRkrAAoZY6mWtVnDL_qbu1egct8l9zF9p7sHWO8KKKPQBtYiLs=w351-h202-no?authuser=0 "Bibliotecas")
+![Bibliotecas](https://lh3.googleusercontent.com/pw/ACtC-3fDAhwAyh3Mmj5DXEm5w7WUFLEaKmt09btHB1tyWvOGQUiSgweR1-UYmQ8G6qSmDkeWJiiSBgALa89gBzRe8vfMGby9aISAy3IjV1rRkrAAoZY6mWtVnDL_qbu1egct8l9zF9p7sHWO8KKKPQBtYiLs=w351-h202-no?authuser=0 "Bibliotecas")](https://lh3.googleusercontent.com/pw/ACtC-3fDAhwAyh3Mmj5DXEm5w7WUFLEaKmt09btHB1tyWvOGQUiSgweR1-UYmQ8G6qSmDkeWJiiSBgALa89gBzRe8vfMGby9aISAy3IjV1rRkrAAoZY6mWtVnDL_qbu1egct8l9zF9p7sHWO8KKKPQBtYiLs=w351-h202-no?authuser=0 "Bibliotecas")
 
 [(sarxos-webcam-capture) API utilizada para criação da webcam.](https://github.com/sarxos/webcam-capture "(sarxos-webcam-capture) API utilizada para criação da webcam.")
 
